@@ -1,7 +1,7 @@
 # CSE 110 Group 9 - Powellmon
 ## Bujo Studio
 ![Homepage](specs/interface/final-screenshots/homepage.PNG)
-Our bullet journal app, Bujo Studio, can be accessed [here](https://cse110-sp21-group9.github.io/cse110-sp21-group9/).
+Our bullet journal app, Bujo Studio, can be accessed [here](https://alanlwang1.github.io/cse110-sp21-group9/).
 ## Final project videos 
 - [Final public video](https://drive.google.com/file/d/1Oc6poIrnOCtyrYDlVDBMAxyNPdQ2xNJ5/view?usp=sharing)
 - [Final private video](https://drive.google.com/file/d/1W98a_GiSnj2eH-LFw1UNlg04i-PF4nuT/view) 
